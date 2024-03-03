@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "../components/Navbar";
 import Products from "../components/Products";
-// import About from "../components/About";
+import About from "../components/About";
 import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 
@@ -10,7 +10,7 @@ const LandingPage = () => {
     <>
       <Navbar />
       <Products/>
-      {/* <About/> */}
+      <About/>
       <Contact/>
       <Footer/>
     </>

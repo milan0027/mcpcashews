@@ -1,6 +1,5 @@
 import React from "react";
 import {
-  FaFacebookF,
   FaWhatsapp,
   FaInstagram,
   FaEnvelope,
@@ -11,13 +10,13 @@ const ProfileIcons = () => {
      
       
       <li>
-        <a href="mailto:xxxx@gmail.com" className="icon-button email">
+        <a href="mailto: mcpkaju@gmail.com" className="icon-button email">
           <FaEnvelope />
         </a>
       </li>
       <li>
         <a
-          href="https://wa.me/+919556666433"
+          href="https://wa.me/+918018445539"
           target="__blank"
           className="icon-button whatsapp"
         >
@@ -26,16 +25,7 @@ const ProfileIcons = () => {
       </li>
       <li>
         <a
-          href="https://www.facebook.com/milan.mundhra.5"
-          target="__blank"
-          className="icon-button facebook"
-        >
-          <FaFacebookF />
-        </a>
-      </li>
-      <li>
-        <a
-          href="https://www.instagram.com/milan_miles_1/"
+          href="https://www.instagram.com/mcp_cashew?igsh=OGk2YjBmYjU2Z2tu"
           target="__blank"
           className="icon-button instagram"
         >
