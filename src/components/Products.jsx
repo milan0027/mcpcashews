@@ -10,7 +10,7 @@ const Products = () => {
             <Grid id="product-grid" container spacing={3}>
                 {itemNames.map(element => 
                     <Grid item xs={12} sm={6} md={4} xl={3} key={element}>
-                          <ActionCard url = {'/assets/items/'+element+'.jpeg'} name={element}></ActionCard>
+                          <ActionCard url = {'/mcpcashews/assets/items/'+element+'.jpeg'} name={element}></ActionCard>
                     </Grid>
                 )}
                 
