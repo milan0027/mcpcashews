@@ -4,10 +4,10 @@ import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import { CardActionArea } from '@mui/material';
 
-export default function ActionCard({url, name}) {
+export default function ActionCard({url, name, handleClick}) {
   return (
     <Card sx={{ maxWidth: 400 }}>
-      <CardActionArea>
+      <CardActionArea onClick = {() => handleClick(name)}>
         <CardMedia
           component="img"
           image={url}

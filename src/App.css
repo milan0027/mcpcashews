@@ -16,7 +16,7 @@
 
 .navbar {
   position: fixed;
-  z-index: 9999;
+  z-index: 99;
   top: 0;
   width: 100%;
 }
@@ -127,8 +127,13 @@ nav {
   transform: translateX(0.5rem) rotate(360deg);
 }
 
+#modal-img {
+  width: 100%;
+}
 
-
+#modal-title{
+  font-weight: bold;
+}
 
 
 
