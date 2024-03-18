@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mcpcashews/static/css/main.b9853567.css",
-    "main.js": "/mcpcashews/static/js/main.896a1a78.js",
+    "main.js": "/mcpcashews/static/js/main.216f141e.js",
     "static/media/AboutUs.jpg": "/mcpcashews/static/media/AboutUs.f0196c7ea7b0f0de9ec2.jpg",
     "static/media/Contact us-bro.svg": "/mcpcashews/static/media/Contact us-bro.9a3eadf8cdfb5e541d1d0a70eddf060f.svg",
     "index.html": "/mcpcashews/index.html",
     "main.b9853567.css.map": "/mcpcashews/static/css/main.b9853567.css.map",
-    "main.896a1a78.js.map": "/mcpcashews/static/js/main.896a1a78.js.map"
+    "main.216f141e.js.map": "/mcpcashews/static/js/main.216f141e.js.map"
   },
   "entrypoints": [
     "static/css/main.b9853567.css",
-    "static/js/main.896a1a78.js"
+    "static/js/main.216f141e.js"
   ]
 }
