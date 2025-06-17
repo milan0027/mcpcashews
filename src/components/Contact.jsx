@@ -1,7 +1,7 @@
 import React from "react";
 import Grid from '@mui/material/Grid';
 import contactSVG from "../assets/Contact us-bro.svg";
-import { FaLocationDot, FaPhone, FaEnvelopeOpen, FaUser } from "react-icons/fa6";
+import { FaLocationDot, FaEnvelopeOpen, FaUser } from "react-icons/fa6";
 import ProfileIcons from "./ProfileIcons";
 
 const Contact = () => {
@@ -22,12 +22,11 @@ const Contact = () => {
               <div>
                 <p>
                   <FaUser />
-                  <span>Rajan Verma</span>
+                  <span>Rajan Verma, +91-8018445539</span>
                 </p>
-                
                 <p>
-                  <FaPhone />
-                  <span>+91-8018445539</span>
+                  <FaUser />
+                  <span>Mehul Verma, +91-8658206272</span>
                 </p>
                 <p>
                   <FaEnvelopeOpen />
